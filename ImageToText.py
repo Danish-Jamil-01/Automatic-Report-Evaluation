@@ -20,7 +20,7 @@ def image_to_text(image_path, output_file):
 
 if __name__ == "__main__":
     # Path to the image file
-    image_path = 'report.jpg'  # Update this with your image file path
+    image_path = 'DigitalText.jpeg'  # Update this with your image file path
     
     # Output file path
     output_file = "ExtractedText.txt"
