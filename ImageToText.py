@@ -20,10 +20,10 @@ def image_to_text(image_path, output_file):
 
 if __name__ == "__main__":
     # Path to the image file
-    image_path = "example_image.jpg"  # Update this with your image file path
+    image_path = 'report.jpg'  # Update this with your image file path
     
     # Output file path
     output_file = "ExtractedText.txt"
 
     # Convert image to text and write to file
-    image_to_text('report.jpg', output_file)
+    image_to_text(image_path, output_file)
