@@ -23,7 +23,7 @@ if __name__ == "__main__":
     image_path = "example_image.jpg"  # Update this with your image file path
     
     # Output file path
-    output_file = "extractedText.txt"
+    output_file = "ExtractedText.txt"
 
     # Convert image to text and write to file
     image_to_text('report.jpg', output_file)
